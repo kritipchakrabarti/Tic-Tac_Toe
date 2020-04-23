@@ -1,4 +1,4 @@
-# Tic-Tac_Toe
+# Tic-Tac-Toe
 This is an app which allows you to play the tic-tac-toe game
 # How To Play
 Download the .rar file.
